@@ -1,6 +1,5 @@
 # Numerical-Methods
 
-Instalação:
 Bibliotecas usadas:
 * https://matplotlib.org/
 
